@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.streamlit/secrets.toml
+data/fer2013.csv
